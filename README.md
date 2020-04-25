@@ -1,6 +1,6 @@
-#Data repo
+# Data repo
 
-###Objectives:
+### Objectives:
 Main objective of this repo is to apply all the learning I have been making into the following types of projects:
 
 1. Companies' Growth Analysis;
@@ -9,6 +9,6 @@ Main objective of this repo is to apply all the learning I have been making into
 
 As my background is based on business systems, those projects are all about enterprises performances and characteristics.
 
-###Current Project:
+### Current Project:
 
 *Cronus Growth Analysis*
